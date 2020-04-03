@@ -1,11 +1,31 @@
 [
 
 {
+		"name": "380",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/440.png",
+                "downloadable": false,
+                "collections": "PATTERN"
+	
+	
+	},
+
+{
+		"name": "379",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/439.png",
+                "downloadable": false,
+                "collections": "PATTERN"
+	
+	
+	},
+
+{
 		"name": "378",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/437.png",
                 "downloadable": false,
-                "collections": "PATTERN"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -15,7 +35,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/436.png",
                 "downloadable": false,
-                "collections": "PATTERN"
+                "collections": "AMOLED"
 	
 	
 	},
