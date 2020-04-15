@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "404",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "403",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "402",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/473.png",
