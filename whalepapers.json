@@ -1,6 +1,27 @@
 [
 
 {
+		"name": "Lonely Land 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/496.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Lonely Land 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/495.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+
+{
 		"name": "Mountain 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/492.png",
