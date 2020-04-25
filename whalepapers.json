@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Flat Wall 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/509.png",
+                "downloadable": false,
+                "collections": "FLAT"
+	
+	
+	},
+
+{
+		"name": "Flat Wall 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/508.png",
+                "downloadable": false,
+                "collections": "FLAT"
+	
+	
+	},
+
+{
 		"name": "Pattern Stars 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/506.png",
