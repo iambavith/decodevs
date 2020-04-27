@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Mountain 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/514.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Mountain 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/513.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
 		"name": "Color wave 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/511.png",
