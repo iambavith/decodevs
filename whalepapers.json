@@ -1,6 +1,27 @@
 [
 
 {
+		"name": "HeadSet 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/520.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+
+{
+		"name": "HeadSet 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/519.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "Colorful Flower 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png",
