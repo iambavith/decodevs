@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Land 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/527.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Land 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/526.png",
+                "downloadable": false,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
 		"name": "Minimal Mountain 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/523.png",
