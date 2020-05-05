@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Ray 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/530.png",
+                "downloadable": false,
+                "collections": "Pattern"
+	
+	
+	},
+
+{
+		"name": "Ray 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/529.png",
+                "downloadable": false,
+                "collections": "Pattern"
+	
+	
+	},
+
+{
 		"name": "Land 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/527.png",
