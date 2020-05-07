@@ -1,11 +1,41 @@
 [
 
 {
+		"name": "Antenna 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/534.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Antenna 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/533.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Antenna 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/532.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
 		"name": "Ray 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/531.png",
                 "downloadable": true,
-                "collections": "Pattern"
+                "collections": "PATTERN"
 	
 	
 	},
@@ -15,7 +45,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/530.png",
                 "downloadable": true,
-                "collections": "Pattern"
+                "collections": "PATTERN"
 	
 	
 	},
@@ -25,7 +55,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/529.png",
                 "downloadable": true,
-                "collections": "Pattern"
+                "collections": "PATTERN"
 	
 	
 	},
