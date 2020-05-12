@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Android Logo 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/539.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Android Logo 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/538.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
 		"name": "Nature 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/535.png",
