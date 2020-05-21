@@ -1,6 +1,36 @@
 [
 
 {
+		"name": "Amoled Planet 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Amoled Planet 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/551.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Amoled Planet 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/550.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "Little house 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/549.png",
