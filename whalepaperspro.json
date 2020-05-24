@@ -1,6 +1,37 @@
 [
 
 {
+		"name": "Pelican Bird 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/555.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+{
+		"name": "Pelican Bird 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/553.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+
+
+{
 		"name": "Amoled Planet 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
