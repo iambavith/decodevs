@@ -1,6 +1,26 @@
 [
 
 {
+		"name": "Pattern Wall 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/557.png",
+                "downloadable": false,
+                "collections": "PATTERN"
+	
+	
+	},
+
+{
+		"name": "Pattern Wall 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/556.png",
+                "downloadable": false,
+                "collections": "PATTERN"
+	
+	
+	},
+
+{
 		"name": "Pelican Bird 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
