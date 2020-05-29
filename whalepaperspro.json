@@ -1,6 +1,36 @@
 [
 
 {
+		"name": "Isometric wall 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/561.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
+		"name": "Isometric wall 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/560.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
+		"name": "Isometric wall 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/559.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
 		"name": "Pattern Wall 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/558.png",
