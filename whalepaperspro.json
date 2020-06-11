@@ -1,6 +1,37 @@
 [
 
 {
+		"name": "Amoled desert 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/576.png",
+                "downloadable": true,
+                "collections": "Material"
+	
+	
+	},
+
+
+{
+		"name": "Amoled desert 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png",
+                "downloadable": true,
+                "collections": "Material"
+	
+	
+	},
+
+{
+		"name": "Amoled desert 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png",
+                "downloadable": true,
+                "collections": "Material"
+	
+	
+	},
+
+{
 		"name": "Material wall 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/573.png",
