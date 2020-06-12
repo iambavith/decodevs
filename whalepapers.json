@@ -1,5 +1,24 @@
 [
 
+{
+		"name": "Plant 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/579.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Plant 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
 
 {
 		"name": "Amoled desert 2",

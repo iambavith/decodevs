@@ -1,11 +1,61 @@
 [
 
 {
+		"name": "Plant 4",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/581.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Plant 3",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/580.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Plant 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/579.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Plant 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Amoled desert 4",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/577.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "Amoled desert 3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/576.png",
                 "downloadable": true,
-                "collections": "Material"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -16,7 +66,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png",
                 "downloadable": true,
-                "collections": "Material"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -26,7 +76,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png",
                 "downloadable": true,
-                "collections": "Material"
+                "collections": "AMOLED"
 	
 	
 	},
