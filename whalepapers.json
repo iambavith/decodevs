@@ -1,5 +1,21 @@
 [
     {
+        "name": "Camel 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png",
+        "downloadable": false,
+        "collections": "AMOLED"
+
+    },
+    {
+        "name": "Camel 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png",
+        "downloadable": false,
+        "collections": "AMOLED"
+
+    },
+    {
         "name": "Trees 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png",
