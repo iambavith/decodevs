@@ -1,5 +1,29 @@
 [
     {
+        "name": "Bricks 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/594.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+
+    },
+    {
+        "name": "Bricks 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/593.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+
+    },
+    {
+        "name": "Bricks 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/592.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+
+    },
+    {
         "name": "Camel 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png",
