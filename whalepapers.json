@@ -1,4 +1,21 @@
-[
+[ 
+   
+   {
+        "name": "Indoor Plants 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/597.png",
+        "downloadable": false,
+        "collections": "MINIMAL"
+
+    },
+   {
+        "name": "Indoor Plants 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/596.png",
+        "downloadable": false,
+        "collections": "MINIMAL"
+
+    },
     {
         "name": "Bricks 3",
         "author": "iambavith",
