@@ -1,9 +1,27 @@
 [ 
+
+{
+        "name": "Gradient wall 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/610.png",
+        "downloadable": false,
+        "collections": "GRADIENT"
+
+    },
+
+{
+        "name": "Gradient wall 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/609.png",
+        "downloadable": false,
+        "collections": "GRADIENT"
+
+    },
 {
         "name": "Pattern wall 4",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/608.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -11,7 +29,7 @@
         "name": "Pattern wall 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/607.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -19,7 +37,7 @@
         "name": "Pattern wall 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/606.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -27,21 +45,21 @@
         "name": "Amoled desert 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/576.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "Amoled desert 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "Amoled desert 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     },
@@ -49,14 +67,14 @@
         "name": "Water Melon 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/569.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "MINIMAL"
 
     }, {
         "name": "Water Melon 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/568.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "MINIMAL"
 
     },
@@ -64,42 +82,42 @@
         "name": "Pattern Wall 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/558.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, {
         "name": "Pattern Wall 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/557.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, {
         "name": "Pattern Wall 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/556.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, {
         "name": "Pelican Bird 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/555.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     }, {
         "name": "Pelican Bird 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     }, {
         "name": "Pelican Bird 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/553.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     },
@@ -107,21 +125,21 @@
         "name": "Amoled Planet 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "Amoled Planet 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/551.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "Amoled Planet 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/550.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, 
@@ -129,7 +147,7 @@
         "name": "486",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/486.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "MATERIAL"
 
     }, 
@@ -137,21 +155,21 @@
         "name": "477",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/477.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "476",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     }, {
         "name": "475",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "AMOLED"
 
     },
@@ -159,7 +177,7 @@
         "name": "471",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/471.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, 
@@ -167,21 +185,21 @@
         "name": "459",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/459.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, {
         "name": "458",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/458.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     }, {
         "name": "457",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/457.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -189,21 +207,21 @@
         "name": "Colorful Flower 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/518.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     }, {
         "name": "Colorful Flower 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     }, {
         "name": "Colorful Flower 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/516.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     },
@@ -211,7 +229,7 @@
         "name": "Pattern wall 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/606.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -219,7 +237,7 @@
         "name": "Pattern wall 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/605.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -227,7 +245,7 @@
         "name": "Abstract Wave 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/603.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ABSTRACT"
 
     },
@@ -236,7 +254,7 @@
         "name": "Abstract Wave 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/602.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ABSTRACT"
 
     },
@@ -277,7 +295,7 @@
         "name": "Bricks 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/594.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -285,7 +303,7 @@
         "name": "Bricks 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/593.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
@@ -293,7 +311,7 @@
         "name": "Bricks 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/592.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "PATTERN"
 
     },
