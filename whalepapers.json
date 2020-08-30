@@ -1,4 +1,20 @@
 [ 
+{
+        "name": "Simple wall 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/613.png",
+        "downloadable": false,
+        "collections": "MINIMAL"
+
+    },
+{
+        "name": "Simple wall 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/612.png",
+        "downloadable": false,
+        "collections": "MINIMAL"
+
+    },
 
 {
         "name": "Gradient wall 2",
