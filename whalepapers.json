@@ -1,5 +1,21 @@
 [ 
 {
+        "name": "Nature view 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/616.png",
+        "downloadable": false,
+        "collections": "AMOLED"
+
+    }, 
+{
+        "name": "Nature view 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/615.png",
+        "downloadable": false,
+        "collections": "ILLUSTRATION"
+
+    },
+{
         "name": "Simple wall 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/613.png",
