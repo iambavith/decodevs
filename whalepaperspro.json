@@ -1,4 +1,25 @@
 [ {
+        "name": "Colorful wave 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/626.png",
+        "downloadable": true,
+        "collections": "MINIMAL"
+
+    },{
+        "name": "Colorful wave 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/625.png",
+        "downloadable": true,
+        "collections": "MINIMAL"
+
+    },{
+        "name": "Colorful wave 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/624.png",
+        "downloadable": true,
+        "collections": "MINIMAL"
+
+    },{
         "name": "Mountains 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/623.png",
