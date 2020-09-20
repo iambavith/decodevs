@@ -1,4 +1,25 @@
 [ {
+        "name": "Amoled Wall 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/629.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },{
+        "name": "Amoled Wall 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/628.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },{
+        "name": "Amoled Wall 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/627.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },{
         "name": "Colorful wave 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/626.png",
