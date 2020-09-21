@@ -1,4 +1,18 @@
 [ {
+        "name": "Gradient Pattern 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/631.png",
+        "downloadable": false,
+        "collections": "PATTERN"
+
+    },{
+        "name": "Gradient Pattern 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/630.png",
+        "downloadable": false,
+        "collections": "PATTERN"
+
+    },{
         "name": "Mountains 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/622.png",
@@ -17,21 +31,21 @@
         "name": "Android 11 -3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/620.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ANDROID 11"
 
     },{
         "name": "Android 11 -2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/619.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ANDROID 11"
 
     }, {
         "name": "Android 11 -1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/618.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ANDROID 11"
 
     },
