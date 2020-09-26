@@ -1,4 +1,25 @@
-[ {
+[{
+        "name": "Amoled Waves 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/641.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },{
+        "name": "Amoled Waves 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/640.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled Waves 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/639.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },{
         "name": "Gradient circle 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/638.png",
