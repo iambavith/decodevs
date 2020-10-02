@@ -1,4 +1,19 @@
-[ {
+[{
+        "name": "Amoled Pumpkin 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/647.png",
+        "downloadable": false,
+        "collections": "HALLOWEEN"
+
+    },
+{
+        "name": "Amoled Pumpkin 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/646.png",
+        "downloadable": false,
+        "collections": "HALLOWEEN"
+
+    }, {
         "name": "Forest 1",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/642.png",
