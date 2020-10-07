@@ -1,5 +1,37 @@
 [
 {
+        "name": "Wave 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/654.png",
+        "downloadable": true,
+        "collections": "Minimal"
+
+    },
+{
+        "name": "Wave 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/653.png",
+        "downloadable": true,
+        "collections": "Minimal"
+
+    },
+{
+        "name": "Bricks pattern 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/652.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+
+    },
+{
+        "name": "Bricks pattern 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/651.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+
+    },
+{
         "name": "Refreshing 3",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/650.png",
