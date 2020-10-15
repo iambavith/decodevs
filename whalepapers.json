@@ -1,4 +1,11 @@
 [{
+        "name": "Flat wall",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/665.png",
+        "downloadable": false,
+        "collections": "FLAT"
+
+    },{
         "name": "Stylus Trees 2",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/662.png",
