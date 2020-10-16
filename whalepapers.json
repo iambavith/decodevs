@@ -1,4 +1,18 @@
 [{
+        "name": "Halloween house 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/668.png",
+        "downloadable": false,
+        "collections": "HALLOWEEN"
+
+    },{
+        "name": "Halloween house 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/667.png",
+        "downloadable": false,
+        "collections": "HALLOWEEN"
+
+    },{
         "name": "Flat wall",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/665.png",
