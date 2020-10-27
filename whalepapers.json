@@ -1,8 +1,29 @@
 [{
+        "name": "Amoled Abstract 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/678.png",
+        "downloadable": false,
+        "collections": "ABSTRACT"
+
+    },{
+        "name": "Amoled Abstract 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/677.png",
+        "downloadable": false,
+        "collections": "ABSTRACT"
+
+    },{
+        "name": "Amoled Abstract 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/676.png",
+        "downloadable": false,
+        "collections": "ABSTRACT"
+
+    },{
         "name": "Waves",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/673.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     },{
