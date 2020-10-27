@@ -1,30 +1,51 @@
 {
     "abstract" : [
         {
+            "name": "Amoled Abstract 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/678.png",
+            "downloadable": true,
+            "collections": "ABSTRACT",
+            "premium": true
+    
+        },{
+            "name": "Amoled Abstract 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/677.png",
+            "downloadable": true,
+            "collections": "ABSTRACT"
+    
+        },{
+            "name": "Amoled Abstract 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/676.png",
+            "downloadable": true,
+            "collections": "ABSTRACT",
+            "premium": true
+    
+        }, {
             "name": "Abstract Wave 3",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/604.png",
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },
-        {
+        }, {
             "name": "Abstract Wave 2",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/603.png",
             "downloadable": true,
-            "collections": "ABSTRACT"
+            "collections": "ABSTRACT",
+            "premium": true
     
-        },
-    
-        {
+        }, {
             "name": "Abstract Wave 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/602.png",
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },{
+        }, {
             "name": "228",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/228.png",
@@ -45,7 +66,7 @@
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },{
+        }, {
             "name": "207",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/207.png",
@@ -66,7 +87,7 @@
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        }
+        },
     ],
     "amoled" : [
         {
