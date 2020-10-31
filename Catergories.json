@@ -1,30 +1,51 @@
 {
     "abstract" : [
         {
+            "name": "Amoled Abstract 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/678.png",
+            "downloadable": true,
+            "collections": "ABSTRACT",
+            "premium": true
+    
+        },{
+            "name": "Amoled Abstract 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/677.png",
+            "downloadable": true,
+            "collections": "ABSTRACT"
+    
+        },{
+            "name": "Amoled Abstract 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/676.png",
+            "downloadable": true,
+            "collections": "ABSTRACT",
+            "premium": true
+    
+        }, {
             "name": "Abstract Wave 3",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/604.png",
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },
-        {
+        }, {
             "name": "Abstract Wave 2",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/603.png",
             "downloadable": true,
-            "collections": "ABSTRACT"
+            "collections": "ABSTRACT",
+            "premium": true
     
-        },
-    
-        {
+        }, {
             "name": "Abstract Wave 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/602.png",
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },{
+        }, {
             "name": "228",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/228.png",
@@ -45,7 +66,7 @@
             "downloadable": true,
             "collections": "ABSTRACT"
     
-        },{
+        }, {
             "name": "207",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/207.png",
@@ -70,1227 +91,1216 @@
     ],
     "amoled" : [
         {
-            "name": "Amoled Pumpkin 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/647.png",
-            "downloadable": true,
-            "collections": "HALLOWEEN"
-    
-        },
-    {
-            "name": "Amoled Pumpkin 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/646.png",
-            "downloadable": true,
-            "collections": "HALLOWEEN"
-    
-        },{
-            "name": "Amoled Pumpkin 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/645.png",
-            "downloadable": true,
-            "collections": "HALLOWEEN"
-    
-        },{
             "name": "Amoled Waves 3",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/641.png",
             "downloadable": true,
             "collections": "AMOLED"
-    
         },{
             "name": "Amoled Waves 2",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/640.png",
             "downloadable": true,
             "collections": "AMOLED"
-    
         }, {
             "name": "Amoled Waves 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/639.png",
             "downloadable": true,
             "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Wall 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/629.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Wall 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/628.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Wall 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/627.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Nature view 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/616.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
         }, {
-            "name": "Amoled desert 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/576.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled desert 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled desert 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Planet 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Planet 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/551.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Planet 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/550.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "477",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/477.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "476",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "475",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Camel 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },
-        {
-            "name": "Camel 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },
-        {
-            "name": "Camel 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled desert 4",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/577.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Flats 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/543.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Flats 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/542.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Flats 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/541.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "HeadSet 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/521.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "HeadSet 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/520.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "HeadSet 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/519.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Amoled Rings 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/500.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Rings 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/499.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Amoled Rings 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/498.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Pattern wall Amoled",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/490.png",
-            "downloadable": true,
-            "collections": "PATTERN"
-    
-        }, {
-            "name": "477",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/477.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "476",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "475",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "468",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/468.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "467",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/467.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "466",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/466.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "453",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/453.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "452",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/452.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "451",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/451.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "438",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/438.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "437",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/437.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "436",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/436.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "426",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/426.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "425",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/425.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "424",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/424.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "420",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/420.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "419",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/419.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "418",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/418.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "411",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/411.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "410",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/410.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "409",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/409.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "390",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/390.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "389",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/389.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "388",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/388.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "381",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/381.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "380",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/380.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "379",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/379.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "372",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/372.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "371",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/371.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "370",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/370.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "360",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/360.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "359",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/359.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "358",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/358.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "354",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/354.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "353",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/353.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "352",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/352.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "348",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/348.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "347",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/347.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "346",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/346.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "333",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/333.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "332",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/332.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "331",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/331.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "309",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/309.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "308",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/308.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "307",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/307.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "291",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/291.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "290",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/290.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "289",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/289.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },  {
-            "name": "276",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/276.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "275",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/275.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "274",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/274.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "261",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/261.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "260",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/260.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "259",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/259.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "255",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/255.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "254",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/254.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "249",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/249.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "248",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/248.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "247",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/247.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "236",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/236.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "235",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/235.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "234",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/234.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "233",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/233.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "232",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/232.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "225",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/225.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "224",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/224.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "223",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/223.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "219",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/219.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "218",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/218.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "217",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/217.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "216",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/216.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "215",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/215.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "214",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/214.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "201",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/201.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "200",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/200.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "199",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/199.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "189",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/189.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "188",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/188.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "187",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/187.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "180",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/180.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "179",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/179.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "178",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/178.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },  {
-            "name": "168",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/168.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "167",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/167.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "166",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/166.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "138",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/138.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "137",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/137.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "136",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/136.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },  {
-            "name": "102",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/102.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "101",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/101.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "100",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/100.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "94",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/94.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "93",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/93.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "92",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/92.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "76",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/76.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "75",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/75.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "74",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/74.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "61",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/61.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "60",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/60.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "59",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/59.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "49",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/49.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "48",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/48.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "47",
-            "author": "caffeinefueled",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/47.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "34",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/34.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "33",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/33.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "32",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/32.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "31",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/31.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "22",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/22.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "21",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/21.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "20",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/20.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "16",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/16.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "15",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/15.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "14",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/14.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "10",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/10.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "9",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/9.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "8",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/8.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Deer Orange",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Orange.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Deer Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Red.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Deer Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Blue.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Basket Ball Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Basket Ball Orange",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Orange.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Beardo Black",
-            "author": "caffeinefueled",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20black.jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "SunSet Cat",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/SunSet%20Cat.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Jack Daniels",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Spider Black",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Spider%20Black.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Butter Fly Black",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Butter%20Fly.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Flat Planet",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Planet.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Mountain Climbing Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Red.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Mountain Climbing Green",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Green.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Mountain Climbing Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Blue.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Captain America",
-            "author": "caffeinefueled",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/captain%20america%20(3).jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Love Park Yellow",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Yellow.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Love Park Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Red.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Love Park Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Blue.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },{
-            "name": "Abstract 1 Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Blue.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Abstract 1 Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20RED.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Abstract 1 Yellow",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Yellow.png",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Basket Ball Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20dark%20red.jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Basket Ball Blue",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20blue.jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        },  {
-            "name": "Horse Pink",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20PINK.jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }, {
-            "name": "Horse Red",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20RED.jpg",
-            "downloadable": true,
-            "collections": "AMOLED"
-    
-        }
+        "name": "Amoled Wall 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/629.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+    },{
+        "name": "Amoled Wall 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/628.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    },{
+        "name": "Amoled Wall 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/627.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+    },{
+        "name": "Nature view 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/616.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    }, {
+        "name": "Amoled desert 4",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/577.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled desert 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/576.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled desert 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled desert 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled Planet 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled Planet 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/551.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled Planet 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/550.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "477",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/477.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "476",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "475",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Camel 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    },
+    {
+        "name": "Camel 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },
+    {
+        "name": "Camel 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled Flats 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/543.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled Flats 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/542.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled Flats 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/541.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "HeadSet 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/521.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "HeadSet 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/520.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "HeadSet 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/519.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Amoled Rings 3",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/500.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled Rings 2",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/499.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Amoled Rings 1",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/498.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    }, {
+        "name": "477",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/477.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "476",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/476.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "475",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/475.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "468",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/468.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "467",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/467.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "466",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/466.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "453",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/453.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "452",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/452.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "451",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/451.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "438",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/438.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "437",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/437.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "436",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/436.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "426",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/426.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "425",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/425.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "424",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/424.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+    },  {
+        "name": "420",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/420.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "419",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/419.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "418",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/418.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+    },  {
+        "name": "411",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/411.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "410",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/410.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "409",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/409.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    }, {
+        "name": "390",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/390.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "389",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/389.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "388",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/388.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "381",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/381.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "380",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/380.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "379",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/379.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    },  {
+        "name": "372",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/372.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "371",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/371.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "370",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/370.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    }, {
+        "name": "360",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/360.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "359",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/359.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "358",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/358.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+    },  {
+        "name": "354",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/354.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "353",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/353.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "352",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/352.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, 
+    {
+        "name": "348",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/348.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "347",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/347.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "346",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/346.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },
+    {
+        "name": "333",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/333.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "332",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/332.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "331",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/331.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },
+    {
+        "name": "309",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/309.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+    	"premium": true
+
+    }, {
+        "name": "308",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/308.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "307",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/307.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "291",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/291.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "290",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/290.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "289",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/289.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "276",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/276.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "275",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/275.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "274",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/274.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "261",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/261.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "260",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/260.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "259",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/259.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "255",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/255.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "254",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/254.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "249",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/249.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "248",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/248.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "247",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/247.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "236",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/236.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "235",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/235.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "234",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/234.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "233",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/233.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "232",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/232.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "225",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/225.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "224",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/224.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "223",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/223.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "219",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/219.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "218",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/218.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "217",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/217.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "216",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/216.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "215",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/215.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "214",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/214.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },   {
+        "name": "201",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/201.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "200",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/200.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "199",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/199.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "189",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/189.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "188",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/188.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "187",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/187.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "180",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/180.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "179",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/179.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "178",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/178.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "168",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/168.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "167",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/167.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "166",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/166.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "138",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/138.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "137",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/137.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "136",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/136.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "102",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/102.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "101",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/101.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "100",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/100.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "94",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/94.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "93",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/93.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "92",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/92.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "76",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/76.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "75",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/75.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "74",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/74.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "61",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/61.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "60",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/60.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "59",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/59.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "49",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/49.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "48",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/48.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "47",
+        "author": "caffeinefueled",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/47.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "34",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/34.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "33",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/33.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "32",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/32.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "31",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/31.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "22",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/22.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "21",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/21.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "20",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/20.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "16",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/16.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "15",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/15.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "14",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/14.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "10",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/10.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "9",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/9.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "8",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/8.png",
+        "downloadable": true,
+        "collections": "AMOLED",
+    	"premium": true
+
+    }, {
+        "name": "Deer Orange",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Orange.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Deer Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Red.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Deer Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Blue.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Basket Ball Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Basket Ball Orange",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Orange.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "Beardo Black",
+        "author": "caffeinefueled",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20black.jpg",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "SunSet Cat",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/SunSet%20Cat.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Jack Daniels",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "Spider Black",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Spider%20Black.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Butter Fly Black",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Butter%20Fly.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "Flat Planet",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Planet.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Mountain Climbing Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Red.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Mountain Climbing Green",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Green.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Mountain Climbing Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Blue.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Captain America",
+        "author": "caffeinefueled",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/captain%20america%20(3).jpg",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "Love Park Yellow",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Yellow.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Love Park Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Red.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Love Park Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Blue.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    },  {
+        "name": "Abstract 1 Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Blue.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Abstract 1 Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20RED.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Abstract 1 Yellow",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Yellow.png",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Basket Ball Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20dark%20red.jpg",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Basket Ball Blue",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20blue.jpg",
+        "downloadable": true,
+        "collections": "AMOLED",
+	    "premium": true
+
+    }, {
+        "name": "Horse Pink",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20PINK.jpg",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, {
+        "name": "Horse Red",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20RED.jpg",
+        "downloadable": true,
+        "collections": "AMOLED"
+
+    }, 
     ],
     "flat" : [
         {
