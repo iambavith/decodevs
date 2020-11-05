@@ -1,4 +1,12 @@
 [{
+        "name": "Gradient Wall",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/685.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION",
+	"premium": true
+
+    },{
         "name": "Forest",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/682.png",
