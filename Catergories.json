@@ -112,6 +112,27 @@
         }
     ],
     "amoled" : [
+{
+        "name": "Amoled Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/694.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION",
+	"premium": true
+    },{
+        "name": "Amoled Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/693.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION",
+	"premium": true
+    },{
+        "name": "Amoled Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/692.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION"
+    },
         {
             "name": "Amoled Waves 3",
             "author": "iambavith",
