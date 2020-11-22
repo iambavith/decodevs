@@ -1,30 +1,37 @@
 [{
+        "name": "Window",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/697.png",
+        "downloadable": false,
+        "collections": "MINIMAL",
+	"premium": false
+    },{
         "name": "Amoled Waves",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/692.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
     },{
         "name": "Abstract",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/689.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION",
-	"premium": true
+	"premium": false
 
     },{
         "name": "Gradient Wall",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/685.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION",
-	"premium": true
+	"premium": false
 
     },{
         "name": "Forest",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/682.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ILLUSTRATION"
 
     },{

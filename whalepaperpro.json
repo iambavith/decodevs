@@ -1,13 +1,12 @@
 {
     "walloftheweek": [
         {
-        "name": "Gradient Wall",
+        "name": "Window",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/685.png",
-        "downloadable": true,
-        "collections": "ILLUSTRATION",
-	"premium": true
-
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/695.png",
+        "downloadable": false,
+        "collections": "MINIMAL",
+	"premium": false
     }
     ],
     "walls": [
