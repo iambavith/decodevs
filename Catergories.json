@@ -1525,6 +1525,27 @@
         }
     ],
     "illustration" : [
+{
+        "name": "Hills",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/698.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION",
+	"premium": true
+    },{
+        "name": "Hills",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/699.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION",
+	"premium": true
+    },{
+        "name": "Hills",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/700.png",
+        "downloadable": true,
+        "collections": "ILLUSTRATION"
+    },
         {
             "name": "Hills 3",
             "author": "iambavith",
