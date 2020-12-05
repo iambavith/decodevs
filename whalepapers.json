@@ -1,4 +1,10 @@
 [{
+        "name": "Pattern",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/701.png",
+        "downloadable": false,
+        "collections": "PATTERN"
+    },{
         "name": "Hills",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/700.png",

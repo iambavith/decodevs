@@ -5003,6 +5003,27 @@
         }
     ],
     "pattern" : [
+{
+        "name": "Pattern",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/701.png",
+        "downloadable": true,
+        "collections": "PATTERN"
+    },{
+        "name": "Pattern",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/702.png",
+        "downloadable": true,
+        "collections": "PATTERN",
+	"premium": true
+    },{
+        "name": "Pattern",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/703.png",
+        "downloadable": true,
+        "collections": "PATTERN",
+	"premium": true
+    },
         {
             "name": "Bricks pattern 2",
             "author": "iambavith",
