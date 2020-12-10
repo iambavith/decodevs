@@ -1,6 +1,27 @@
 {
     "abstract" : [
 {
+        "name": "Abstract Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/704.png",
+        "downloadable": true,
+        "collections": "ABSTRACT"
+    },{
+        "name": "Abstract Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/705.png",
+        "downloadable": true,
+        "collections": "ABSTRACT",
+	"premium": true
+    },{
+        "name": "Abstract Waves",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/706.png",
+        "downloadable": true,
+        "collections": "ABSTRACT",
+	"premium": true
+    },
+{
         "name": "Abstract",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/691.png",
