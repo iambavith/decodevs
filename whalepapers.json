@@ -1,8 +1,14 @@
 [{
+        "name": "Gradient",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/709.png",
+        "downloadable": false,
+        "collections": "GRADIENT"
+    },{
         "name": "Abstract Waves",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/704.png",
-        "downloadable": true,
+        "downloadable": false,
         "collections": "ABSTRACT"
     },{
         "name": "Pattern",

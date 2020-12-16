@@ -1427,6 +1427,27 @@
         }
     ],
     "gradient" : [
+{
+        "name": "Gradient",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/707.png",
+        "downloadable": true,
+        "collections": "GRADIENT",
+	"premium": true
+    },{
+        "name": "Gradient",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/708.png",
+        "downloadable": true,
+        "collections": "GRADIENT",
+	"premium": true
+    },{
+        "name": "Gradient",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/709.png",
+        "downloadable": true,
+        "collections": "GRADIENT"
+    },
         {
             "name": "Gradient circle 3",
             "author": "iambavith",
