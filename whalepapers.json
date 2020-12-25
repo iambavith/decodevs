@@ -2,7 +2,8 @@
         "name": "New Update",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/Frame%2027.png",
-        "downloadable": false
+        "downloadable": false,
+        "collections": "Update"
     },{
         "name": "Gradient",
         "author": "iambavith",
