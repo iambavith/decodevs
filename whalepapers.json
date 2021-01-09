@@ -1,9 +1,27 @@
 [{
-        "name": "New Update",
+        "name": "New Year",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/Frame%2027.png",
-        "downloadable": false,
-        "collections": "Update"
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/721.png",
+	"downloadable": false,
+        "collections": "GRADIENT"
+    },{
+        "name": "New Year",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/720.png",
+	"downloadable": false,
+        "collections": "GRADIENT"
+    },{
+        "name": "New Year",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/719.png",
+	"downloadable": false,
+        "collections": "GRADIENT"
+    },{
+        "name": "Mountains",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/722.png",
+	"downloadable": false,
+        "collections": "GRADIENT"
     },{
         "name": "Gradient",
         "author": "iambavith",
