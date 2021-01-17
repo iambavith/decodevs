@@ -1444,6 +1444,23 @@
     ],
     "gradient" : [
 {
+        "name": "Scraper Glow",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/730.png",
+        "collections": "GRADIENT"
+    },{
+        "name": "Scraper Glow",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/729.png",
+        "collections": "GRADIENT"
+    },{
+        "name": "Scraper Glow",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/728.png",
+	"premium": true,
+        "collections": "GRADIENT"
+    },
+{
         "name": "Gradient",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/707.png",
