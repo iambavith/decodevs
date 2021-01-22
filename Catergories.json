@@ -3517,6 +3517,20 @@
     ],
     "minimal" : [
 {
+        "name": "Entity Lines",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/733.png"
+    },{
+        "name": "Entity Lines",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/732.png"
+    },{
+        "name": "Entity Lines",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/731.png",
+	"premium": true
+    },
+{
         "name": "Santa",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/712.png"
