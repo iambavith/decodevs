@@ -1601,6 +1601,12 @@
     ],
     "illustration" : [
 {
+        "name": "Delight House",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/734.png",
+	"premium": true
+    },
+{
         "name": "Mountains",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/724.png",
