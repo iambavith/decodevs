@@ -1398,6 +1398,21 @@
     }
     ],
     "flat" : [
+{
+        "name": "Daze",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/737.png",
+	"premium": true
+    },{
+        "name": "Daze",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/736.png",
+	"premium": true
+    },{
+        "name": "Daze",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/735.png"
+    },
         {
             "name": "Flat wall 3",
             "author": "iambavith",
