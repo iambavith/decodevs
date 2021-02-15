@@ -1616,6 +1616,21 @@
     ],
     "illustration" : [
 {
+        "name": "Divine",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/742.png",
+	"premium": true
+    },{
+        "name": "Divine",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/741.png",
+	"premium": true
+    },{
+        "name": "Divine",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/740.png"
+    },
+{
         "name": "Delight House",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/734.png",
