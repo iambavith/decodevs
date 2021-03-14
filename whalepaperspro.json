@@ -1,4 +1,13 @@
 [{
+        "name": "Scenery",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/746.png"
+    },{
+        "name": "Scenery",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/745.png",
+	"premium": true
+    },{
         "name": "Dusky Waves",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/744.png"
