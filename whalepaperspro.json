@@ -1,19 +1,33 @@
 [{
-        "name": "Buildings",
+        "name": "Wave",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/758.png"
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/760.png",
+	"premium": true
+    },{
+        "name": "Wave",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/759.png",
+	"premium": true
     },{
         "name": "Buildings",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/757.png"
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/758.png",
+	"premium": true
+    },{
+        "name": "Buildings",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/757.png",
+	"premium": true
     },{
         "name": "Pattern wall 3",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/756.png"
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/756.png",
+	"premium": true
     },{
         "name": "Pattern wall 2",
         "author": "iambavith",
-        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/755.png"
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/755.png",
+	"premium": true
     },{
         "name": "Pattern wall 1",
         "author": "iambavith",
