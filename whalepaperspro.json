@@ -1,4 +1,18 @@
 [{
+        "name": "Land",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/763.png",
+	"premium": true
+    },{
+        "name": "Land",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/762.png",
+	"premium": true
+    },{
+        "name": "Land",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/761.png"
+    },{
         "name": "Wave",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/760.png",
