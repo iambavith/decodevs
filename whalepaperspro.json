@@ -1,4 +1,10 @@
 [{
+        "name": "Mad Gradients",
+        "author": "iambavith",
+        "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/778.png",
+        "collections": "GRADIENT",
+	"premium": true
+    },{
         "name": "Ded tree",
         "author": "iambavith",
         "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/777.png"
